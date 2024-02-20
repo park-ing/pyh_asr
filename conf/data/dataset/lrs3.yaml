@@ -1,0 +1,7 @@
+defaults:
+  - _self_
+root: '/home/nas4/DB/DB_AVSR/pyh_avsr'
+label_dir: "labels"
+train_file: "lrs3_train_transcript_lengths_seg24s_0to100.csv"
+val_file: "lrs3_test_transcript_lengths_seg24s.csv"
+test_file: "lrs3_test_transcript_lengths_seg24s.csv"

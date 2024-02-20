@@ -1,0 +1,7 @@
+defaults:
+  - _self_
+root: '/home/nas4/DB/AIHUB_track2_2/pyh'
+label_dir: "labels"
+train_file: "Tr2DZ_train_transcript_lengths_seg10s_origin.csv"
+val_file: "Tr2DZ_test_transcript_lengths_seg10s_origin.csv"
+test_file: "Tr2DZ_test_transcript_lengths_seg10s_origin.csv"
